@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e68efb5-f53a-4cb5-bb0d-9cbf30208a42" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/ad99538c-2693-40fe-97c5-7cb8a5dd64ca" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Rasel Mondol</h1>
