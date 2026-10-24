@@ -1,116 +1,53 @@
-# 👋 Hi, I'm Md Rasel Mondol
-
-<h3 align="center">
-  🚀 Frontend Developer | MERN Stack Developer
-</h3>
-
 <p align="center">
-  Passionate about building modern, responsive and user-friendly web applications.
+  <img src="https://github.com/user-attachments/assets/3e68efb5-f53a-4cb5-bb0d-9cbf30208a42" alt="Profile Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Md Rasel Mondol</h1>
+<h3 align="center">A Passionate Frontend & MERN Stack Developer from Bangladesh 🇧🇩</h3>
+
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-rasel-mondol" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/md-rasel-mondol">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/share/1HqLRasUoo/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:raselmondream245@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔭 Currently learning **React, Next.js & MERN Stack Development**
-- 🌱 Improving my skills in **Full-Stack Web Development**
-- 💬 Ask me about **JavaScript, React, Next.js & Node.js**
-- 🎯 Interested in building **scalable and user-friendly web applications**
-- 📫 Reach me at **[raselmondream245@gmail.com](mailto:raselmondream245@gmail.com)**
-- 🇧🇩 Based in **Bangladesh**
+- 🔭 **Currently Focusing On:** Mastering **React.js, Next.js, and Full-Stack MERN Development**.
+- 💬 **Ask Me About:** JavaScript, React, Next.js, Node.js & Web Performance.
+- 📫 **How to Reach Me:** [raselmondream245@gmail.com](mailto:raselmondream245@gmail.com)
 
 ---
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Frontend</h3>
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="48" />
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://skillicons.dev/icons?i=css" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="48" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="48" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
-  </a>
-</p>
-
-<h3 align="center">Backend & Database</h3>
-
-<p align="center">
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="48" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
-  </a>
-</p>
-
-<h3 align="center">Tools & Design</h3>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="48" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="48" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" height="48" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-rasel-mondol">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1HqLRasUoo/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:raselmondream245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>💻 Code. Learn. Build. Repeat.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rasel-mondol&show_icons=true&theme=tokyonight&hide_border=true" alt="Rasel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rasel-mondol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
