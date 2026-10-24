@@ -1,46 +1,116 @@
-![profile bannar](https://github.com/user-attachments/assets/3e68efb5-f53a-4cb5-bb0d-9cbf30208a42)
-<h1 align="center">Hi , I'm Md Rasel Mondol</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 👋 Hi, I'm Md Rasel Mondol
 
--  I’m currently learning **React , Nextjs , MERN Stack Development**
+<h3 align="center">
+  🚀 Frontend Developer | MERN Stack Developer
+</h3>
 
-- 💬 Ask me about **JavaScript , React, Nextjs , Nodejs**
+<p align="center">
+  Passionate about building modern, responsive and user-friendly web applications.
+</p>
 
-- 📫 How to reach me **raselmondream245@gmail.com**
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-rasel-mondol">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raselmondream245@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
 
- <h3 align="center">Connect with me:</h3>
+- 🔭 Currently learning **React, Next.js & MERN Stack Development**
+- 🌱 Improving my skills in **Full-Stack Web Development**
+- 💬 Ask me about **JavaScript, React, Next.js & Node.js**
+- 🎯 Interested in building **scalable and user-friendly web applications**
+- 📫 Reach me at **[raselmondream245@gmail.com](mailto:raselmondream245@gmail.com)**
+- 🇧🇩 Based in **Bangladesh**
 
-<table align="center" border="0">
-  <tr>
-    <td style="padding: 0 10px;">
-      <a href="https://www.linkedin.com/in/md-rasel-mondol" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-      </a>
-    </td>
-    <td style="padding: 0 10px;">
-      <a href="https://www.facebook.com/share/1HqLRasUoo/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Languages & Tools
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">&nbsp;<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;</td>
-    <td align="center">&nbsp;<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>&nbsp;</td>
-  </tr>
-</table>
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="48" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="48" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="48" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
+  </a>
+</p>
+
+<h3 align="center">Backend & Database</h3>
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" height="48" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
+  </a>
+</p>
+
+<h3 align="center">Tools & Design</h3>
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="48" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-rasel-mondol">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1HqLRasUoo/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:raselmondream245@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💻 Code. Learn. Build. Repeat.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
